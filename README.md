@@ -1,8 +1,7 @@
 # DSA-PROJECTPalmoria-Group-Employee-Data-Analysis
 my first portfolio work.
 
-
-#Palmoria Group Employee Data Analysis
+### Palmoria Group Employee Data Analysis
 
 An HR-focused data analysis project using Excel. It explores employee demographics, salary compliance, bonuses, and performance ratings. The dataset was cleaned and enhanced with custom columns and pivot tables. The goal was to provide HR with actionable insights on fairness, compensation, and performance.
 
